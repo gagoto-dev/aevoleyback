@@ -10,5 +10,9 @@
 - Lista
 - Desordenada
 
+---
+lorem **bold** ipsum *italic* dolor sit amet adispicing elit
+---
+
 [AE Voley link](https://aevolleyvallirana.pages.dev)
 ![Texto alternativo](images/aevoley.png)
